@@ -1,13 +1,16 @@
 from flask import Flask
-
+from flask import render_template
+from flask.ext.sqlalchemy import SQLAlchemy
+import os
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///students.sqlite3'
+db = SQLAlchemy(app)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql+psycopg2://login:pass@localhost/flask_app'
 
 @app.route('/')
-def debug():
-    pass
+def index():
+    return render_template('home.html')
 
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT',5000)
+    port = int(os.environ.get('PORT',5000))
     app.run(host = '0.0.0.0', port = port)
