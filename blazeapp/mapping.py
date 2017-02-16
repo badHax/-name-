@@ -1,15 +1,14 @@
 import folium
 
-SF_COORDINATES = (18.1096, -76.2975)
+SF_COORDINATES = (18.0179, -76.8099)
 """
 crimedata = pd.read_csv('SFPD_Incidents_-_Current_Year__2015_.csv')
 
 # for speed purposes
 MAX_RECORDS = 1000
 """
-def make_map():
-    map = folium.Map(location=SF_COORDINATES, zoom_start=8)
-    
+def make_normal_map():
+    map = folium.Map(location=SF_COORDINATES, zoom_start=13)
     try:
         map.create_map(path='templates/mapping.html')
         return True
