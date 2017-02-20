@@ -1,6 +1,3 @@
-'''
-    ORM models instead of writing postgresql
-'''
 from app import db
 from datetime import datetime
 
@@ -18,7 +15,7 @@ class Truck(db.Model):
         self.truck_number = truck_number
 
 class Hydrants(db.Model):
-    id = db.Column('hydrant_id',db.Integer, primary_key = true)
+    id = db.Column('hydrant_id',db.Integer, primary_key = True)
     latitude = db.Column(db.Float(10))
     longitude = db.Column(db.Float(10))
     hydrant_type = db.Column(db.String(20))
@@ -29,8 +26,8 @@ class Hydrants(db.Model):
         self.hydrant_type = hydrant_type
         
 
-class incident(db.Model):
-    id = db.Column('incident_id',db.Integer, primary_key = true)
+class alert(db.Model):
+    id = db.Column('incident_id',db.Integer, primary_key = True)
     latitude = db.Column(db.Float(10))
     longitude = db.Column(db.Float(10))
     reported_by = db.Column(db.String(20))
