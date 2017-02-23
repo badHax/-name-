@@ -2,6 +2,7 @@ from app import db
 from datetime import datetime
 
 class Truck(db.Model):
+    __tablename__ = 'truck'
     id = db.Column('truck_id', db.Integer, primary_key = True)
     truck_station = db.Column(db.String(100))
     parish = db.Column(db.String(50))  
@@ -13,8 +14,12 @@ class Truck(db.Model):
         self.parish = parish
         self.addr = addr
         self.truck_number = truck_number
+    
+    def __repr__(self):
+        return '<id {}>'.format(self.id)
 
 class Hydrants(db.Model):
+    __tablename__ = 'hydrants'
     id = db.Column('hydrant_id',db.Integer, primary_key = True)
     latitude = db.Column(db.Float(10))
     longitude = db.Column(db.Float(10))
@@ -24,9 +29,13 @@ class Hydrants(db.Model):
         self.latitude = latitude
         self.longitude = longitude
         self.hydrant_type = hydrant_type
+    
+    def __repr__(self):
+        return '<id {}>'.format(self.id)
         
 
 class alert(db.Model):
+    __tablename__ = 'alert'
     id = db.Column('incident_id',db.Integer, primary_key = True)
     latitude = db.Column(db.Float(10))
     longitude = db.Column(db.Float(10))
@@ -37,6 +46,10 @@ class alert(db.Model):
         self.latitude = latitude
         self.longitude = longitude
         self.reported_by = reported_by
+        
+    def __repr__(self):
+        return '<id {}>'.format(self.id)
+
     
 class Station(db.Model):
     pass
