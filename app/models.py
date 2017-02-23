@@ -1,4 +1,4 @@
-from app import db
+from . import db
 from datetime import datetime
 
 class Truck(db.Model):
@@ -34,7 +34,7 @@ class Hydrants(db.Model):
         return '<id {}>'.format(self.id)
         
 
-class alert(db.Model):
+class Alert(db.Model):
     __tablename__ = 'alert'
     id = db.Column('incident_id',db.Integer, primary_key = True)
     latitude = db.Column(db.Float(10))
@@ -59,4 +59,3 @@ class User(db.Model):
 
 class IncidentReports(db.Model):
     pass
-
