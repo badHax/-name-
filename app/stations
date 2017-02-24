@@ -1,0 +1,10 @@
+{
+  "type": "Station",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [17.934822,76.841326]
+  },
+  "properties": {
+    "name": "Port Royal"
+  }
+}

@@ -1,4 +1,5 @@
 from app import app
+from app import db
 from flask import render_template
 from flask import session
 from flask import request
@@ -7,18 +8,14 @@ from flask import url_for
 from flask import flash
 from flask_sqlalchemy import SQLAlchemy
 
-import fire_api
-#from models import Hydrants, Alert
+#custom imports
+from app import fire_api
+from app import database
 
-#@app.before_first_request
-#def setup():
-    # Recreate database each time for demo
-    #db.drop_all()
-    #db.create_all()
-    
-    #debugging
-    #db.session.add(Alert(123,321,'dave'))
-    #db.session.commit()
+@app.before_first_request
+def setup():
+   db = database.Database()
+   db.setup()
 
 @app.route('/')
 def home():

@@ -46,11 +46,12 @@ class Alert(db.Model):
         self.latitude = latitude
         self.longitude = longitude
         self.reported_by = reported_by
+        self.date_time = datetime.now()
         
     def __repr__(self):
         return '<id {}>'.format(self.id)
 
-    
+"""    
 class Station(db.Model):
     pass
 
@@ -59,3 +60,4 @@ class User(db.Model):
 
 class IncidentReports(db.Model):
     pass
+"""
