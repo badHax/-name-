@@ -12,6 +12,8 @@ from flask_sqlalchemy import SQLAlchemy
 from app import fire_api
 from app import database
 
+mp = fire_api.Mapping()
+
 @app.before_first_request
 def setup():
    db = database.Database()
@@ -21,10 +23,18 @@ def setup():
 def home():
     return render_template('home.html')
 
-@app.route('/index')
+@app.route('/index', methods=["GET","POST"])
 def index():
-    iframe = ""
-    return render_template('index.html', iframe=iframe)
+    """
+        Main page here
+        
+    """
+    mp.make_general_map('index_map')
+    return render_template('index.html')
+
+@app.route('/m')
+def m():
+    return render_template('/maps/index_map.html')
     
 @app.route('/login', methods=['POST', 'GET'])
 def login():
@@ -44,12 +54,6 @@ def logout():
     session.pop('logged_in', None)
     flash('You were logged out')
     return redirect(url_for('home'))
-
-@app.route('/mapping')    
-def render_map():
-    mp = fire_api.Mapping()
-    if mp.make_general_map():
-        return render_template(app.instance_path()+'mapping.html')
 
 @app.route('/alert', methods=["GET","POST"])
 def alert():

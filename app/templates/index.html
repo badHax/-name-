@@ -5,11 +5,12 @@
  <style type="text/css">
    #map{
     width: 100%;
-    height: 400px;
+    height: 600px;
    }
  </style>
  
- <iframe id ="map" src="{{ iframe }}">
+ <iframe id ="map" src= "{{ url_for('m') }}">
  </iframe>
-      
+ <input type="submit" name="submit" value="Show Hydrants">
+ <input type="submit" name="submit" value="Show Stations">  
 {% endblock %}

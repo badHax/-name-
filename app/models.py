@@ -51,9 +51,20 @@ class Alert(db.Model):
     def __repr__(self):
         return '<id {}>'.format(self.id)
 
-"""    
 class Station(db.Model):
-    pass
+    __tablename__ = 'stations'
+    id = db.Column('station_id',db.Integer, primary_key = True)
+    latitude = db.Column(db.Float(10))
+    longitude = db.Column(db.Float(10))
+    name = db.Column(db.String(20))
+    
+    def __init__(self, latitude, longitude, name):
+        self.latitude = latitude
+        self.longitude = longitude
+        self.name = name
+        
+    def __repr__(self):
+        return '<id {}>'.format(self.id)
 
 class User(db.Model):
     pass
