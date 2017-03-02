@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+     <Style id="hfg"> 
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.5</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ff00c000</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+   <Style id="hfy">
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.6</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ff00ffff</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+   <Style id="hfr">
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.7</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ff0000c0</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+   <Style id="hfw">
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.5</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ff0000c0</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+   <Style id="hfd">
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.5</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-diamond.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ffa6a6a6</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-diamond-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+  <Placemark>
+    <name>"Cross Roads"</name>
+    <description>"Station"</description>
+    <styleUrl>#hfr</styleUrl>
+    <Point>
+      <altitudeMode>clampToGround</altitudeMode> 
+      <coordinates>17.98722342,-76.77623749</coordinates>
+    </Point>
+  </Placemark>
+  
+   <Placemark>
+    <name>"Half Way Three"</name>
+    <description>"Station"</description>
+    <styleUrl>#hfr</styleUrl>
+    <Point>
+      <altitudeMode>clampToGround</altitudeMode> 
+      <coordinates>17.98657033,-76.81915283</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>"Port Royal"</name>
+    <description>"Station"</description>
+    <styleUrl>#hfr</styleUrl>
+    <Point>
+      <altitudeMode>clampToGround</altitudeMode> 
+      <coordinates>17.934822,76.841326</coordinates>
+    </Point>
+  </Placemark>
+  
+   <Placemark>
+    <name>"Bull Bay"</name>
+    <description>"Station"</description>
+    <styleUrl>#hfr</styleUrl>
+    <Point>
+      <altitudeMode>clampToGround</altitudeMode> 
+      <coordinates>17.94215474,-76.66568756</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>"Mona"</name>
+    <description>"Station"</description>
+    <styleUrl>#hfr</styleUrl>
+    <Point>
+      <altitudeMode>clampToGround</altitudeMode> 
+      <coordinates>18.00877394,-76.74636841</coordinates>
+    </Point>
+  </Placemark>
+  
+    <Placemark>
+    <name>"Portmore"</name>
+    <description>"Station"</description>
+    <styleUrl>#hfr</styleUrl>
+    <Point>
+      <altitudeMode>clampToGround</altitudeMode> 
+      <coordinates>17.96175123,-76.88438416</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>"Stony Hill"</name>
+    <description>"Station"</description>
+    <styleUrl>#hfr</styleUrl>
+    <Point>
+      <altitudeMode>clampToGround</altitudeMode> 
+      <coordinates>18.07569435,-76.8006134</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>"Havendale"</name>
+    <description>"Station"</description>
+    <styleUrl>#hfr</styleUrl>
+    <Point>
+      <altitudeMode>clampToGround</altitudeMode> 
+      <coordinates>18.05121423,-76.81365967</coordinates>
+    </Point>
+  </Placemark>
+</kml>

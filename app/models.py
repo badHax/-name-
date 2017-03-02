@@ -21,8 +21,8 @@ class Truck(db.Model):
 class Hydrants(db.Model):
     __tablename__ = 'hydrants'
     id = db.Column('hydrant_id',db.Integer, primary_key = True)
-    latitude = db.Column(db.Float(10))
-    longitude = db.Column(db.Float(10))
+    latitude = db.Column(db.Float(10), unique=True)
+    longitude = db.Column(db.Float(10), unique=True)
     hydrant_type = db.Column(db.String(20))
     
     def __init__(self,latitude,longitude,hydrant_type):
@@ -54,9 +54,9 @@ class Alert(db.Model):
 class Station(db.Model):
     __tablename__ = 'stations'
     id = db.Column('station_id',db.Integer, primary_key = True)
-    latitude = db.Column(db.Float(10))
-    longitude = db.Column(db.Float(10))
-    name = db.Column(db.String(20))
+    latitude = db.Column(db.Float(10),unique=True)
+    longitude = db.Column(db.Float(10),unique=True)
+    name = db.Column(db.String(20),unique=True)
     
     def __init__(self, latitude, longitude, name):
         self.latitude = latitude
@@ -64,8 +64,9 @@ class Station(db.Model):
         self.name = name
         
     def __repr__(self):
-        return '<id {}>'.format(self.id)
+        return '{} {} {}'.format(self.latitude, self.longitude,self.name)
 
+"""
 class User(db.Model):
     pass
 

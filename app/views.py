@@ -1,24 +1,26 @@
-from app import app
-from app import db
+
 from flask import render_template
 from flask import session
 from flask import request
 from flask import redirect
 from flask import url_for
 from flask import flash
+from flask import Blueprint
 from flask_sqlalchemy import SQLAlchemy
+import threading
 
 #custom imports
-from app import fire_api
-from app import database
+from app import app
+from app import db
+from app import blaze
 
-mp = fire_api.Mapping()
+mp = blaze.Mapping()
 
-@app.before_first_request
-def setup():
-   db = database.Database()
-   db.setup()
-
+@app.route('/maps/templates/station_view')
+def view_stations():
+    iframe = mp.show_stations()
+    return render_template('maps/templates/station_view.html')
+    
 @app.route('/')
 def home():
     return render_template('home.html')
@@ -29,12 +31,8 @@ def index():
         Main page here
         
     """
-    mp.make_general_map('index_map')
     return render_template('index.html')
-
-@app.route('/m')
-def m():
-    return render_template('/maps/index_map.html')
+    
     
 @app.route('/login', methods=['POST', 'GET'])
 def login():
@@ -59,8 +57,23 @@ def logout():
 def alert():
     pass
 
+@app.errorhandler(404)
+def page_not_found(error):
+    """Custom 404 page."""
+    return render_template('404.html'), 404
+
 def set_status():
     pass
 
 def add_user():
     pass
+
+@app.after_request
+def add_header(response):
+    """
+    Add headers to both force latest IE rendering engine or Chrome Frame,
+    and also to cache the rendered page for 10 minutes.
+    """
+    response.headers['X-UA-Compatible'] = 'IE=Edge,chrome=1'
+    response.headers['Cache-Control'] = 'public, max-age=0'
+    return response

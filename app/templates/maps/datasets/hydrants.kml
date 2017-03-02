@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+     <Style id="hfg"> 
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.5</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ff00c000</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+   <Style id="hfy">
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.6</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ff00ffff</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+   <Style id="hfr">
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.7</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ff0000c0</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+   <Style id="hfw">
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.5</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ff0000c0</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+   <Style id="hfd">
+    <IconStyle>
+     <color>ffffffff</color>
+     <scale>0.5</scale>
+     <Icon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-diamond.png</href>
+     </Icon>
+     <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <ListStyle>
+     <color>ffa6a6a6</color>
+     <ItemIcon>
+      <href>http://maps.google.com/mapfiles/kml/paddle/red-diamond-lv.png</href>
+     </ItemIcon>
+    </ListStyle>
+   </Style>
+  
+  <Placemark>
+    <name>"hydrant"</name>
+    <description>"water source"</description>
+    <styleUrl>#hfr</styleUrl>
+    <Point>
+      <altitudeMode>clampToGround</altitudeMode> 
+      <coordinates>17.98722342,-76.77623749</coordinates>
+    </Point>
+  </Placemark>
+
+</kml>
