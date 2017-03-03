@@ -1,1 +1,2 @@
-![Alt text](/app/static/images/blazeapp.png?raw=true "Blaze Alert")
+#Blaze Alert
+![Alt text](/app/static/images/black.png?raw=true "Blaze Alert")
