@@ -85,14 +85,5004 @@
     </ListStyle>
    </Style>
   
-  <Placemark>
-    <name>"hydrant"</name>
-    <description>"water source"</description>
-    <styleUrl>#hfr</styleUrl>
-    <Point>
-      <altitudeMode>clampToGround</altitudeMode> 
-      <coordinates>17.98722342,-76.77623749</coordinates>
-    </Point>
-  </Placemark>
+<Placemark>
+<name>hydrant77.00156123</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00156123,17.84375629</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.00158624</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00158624,17.84385641</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.00170037</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00170037,17.84395912</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.00185998</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00185998,17.8440569</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.00211324</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00211324,17.84421641</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.00230942</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00230942,17.84437626</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.00360981</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00360981,17.84769151</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.00412085</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00412085,17.84785108</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.00658316</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00658316,17.84798557</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.00843602</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.00843602,17.84798815</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.01912514</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.01912514,17.84801875</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.02017088</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.02017088,17.84841115</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.02208594</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.02208594,17.84842156</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.02273549</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.02273549,17.84862589</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.02345915</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.02345915,17.84882381</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.02398228</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.02398228,17.84892028</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.02472002</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.02472002,17.84913581</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.02521848</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.02521848,17.84928844</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.02522312</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.02522312,17.84937125</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.025375</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.025375,17.8493789</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.09998097</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.09998097,17.84954941</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.10025968</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.10025968,17.8496216</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.10084255</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.10084255,17.84971923</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1018522</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1018522,17.85058948</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1024768</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1024768,17.85071728</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.10661306</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.10661306,17.85073573</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.10821034</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.10821034,17.86342614</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1082316</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1082316,17.86348007</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.10886972</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.10886972,17.86357744</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11017462</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11017462,17.86364291</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11081035</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11081035,17.86369761</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11296755</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11296755,17.8637264</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11313089</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11313089,17.86396549</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11450283</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11450283,17.86408093</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11490534</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11490534,17.87357449</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11553957</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11553957,17.87360147</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11612474</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11612474,17.87416272</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11698167</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11698167,17.874176</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11711392</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11711392,17.87417868</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11729664</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11729664,17.87622362</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11773615</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11773615,17.87637161</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11774296</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11774296,17.87665162</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11807085</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11807085,17.87665976</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1185062</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1185062,17.87718184</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11918527</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11918527,17.8773332</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.11973301</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.11973301,17.87742828</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.12009393</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.12009393,17.87750504</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.12074343</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.12074343,17.87790705</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.12367983</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.12367983,17.87838148</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.12399668</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.12399668,17.8784337</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.12409877</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.12409877,17.87852197</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.12745401</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.12745401,17.87870515</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.12845107</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.12845107,17.87878702</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.12981544</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.12981544,17.87921655</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13049735</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13049735,17.87928025</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13140401</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13140401,17.87931081</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13295577</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13295577,17.87950807</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13361248</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13361248,17.87958166</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13379525</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13379525,17.87959814</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13437748</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13437748,17.87981227</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13489128</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13489128,17.87991355</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13543632</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13543632,17.88016146</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13633747</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13633747,17.88067772</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13753197</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13753197,17.88076428</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13820379</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13820379,17.88182206</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13846029</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13846029,17.88198254</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13977262</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13977262,17.88200052</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.13995772</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.13995772,17.88207332</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.14138974</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.14138974,17.88291328</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.14144585</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.14144585,17.88308608</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.14402684</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.14402684,17.88332536</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1448493</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1448493,17.88356188</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.14577826</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.14577826,17.88419201</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.14900417</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.14900417,17.88421273</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.15036937</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.15036937,17.88440035</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1513151</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1513151,17.8844518</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.15213939</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.15213939,17.88459554</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1528539</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1528539,17.88461689</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.15337787</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.15337787,17.88879234</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.15422755</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.15422755,17.88910749</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.15466</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.15466,17.8973483</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1555377</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1555377,17.89735763</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.15577249</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.15577249,17.89742942</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.15607863</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.15607863,17.89759753</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.15729757</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.15729757,17.89794331</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.15985316</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.15985316,17.89795721</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1603409</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1603409,17.8981344</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16093619</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16093619,17.89824584</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16171899</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16171899,17.89827856</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16176642</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16176642,17.89909146</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1642711</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1642711,17.89923251</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16439821</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16439821,17.90092841</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16475892</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16475892,17.90524231</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16503924</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16503924,17.90823775</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16531622</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16531622,17.9084795</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16599132</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16599132,17.90889091</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16627429</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16627429,17.90890225</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16753044</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16753044,17.90915328</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16766334</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16766334,17.90925168</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16891801</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16891801,17.90938774</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16924367</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16924367,17.91006503</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16925076</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16925076,17.91017971</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16934267</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16934267,17.91020972</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.16954305</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.16954305,17.91085801</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.17027683</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.17027683,17.91090617</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.17094643</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.17094643,17.91116193</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.17114898</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.17114898,17.91125192</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.1711754</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.1711754,17.9112889</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.21360665</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.21360665,17.91139956</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.21618358</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.21618358,17.91142705</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.21628679</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.21628679,17.91201291</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.21632312</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.21632312,17.91202888</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.21678451</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.21678451,17.91232977</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.21737158</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.21737158,17.91236391</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22111286</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22111286,17.91259496</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22160537</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22160537,17.91273531</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22302881</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22302881,17.91298261</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22340584</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22340584,17.92439918</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22361463</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22361463,17.92616349</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22477542</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22477542,17.92622314</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22610561</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22610561,17.92634216</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22721538</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22721538,17.92639789</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22737771</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22737771,17.92661113</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22797087</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22797087,17.92751938</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22807836</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22807836,17.92752784</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.22974735</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.22974735,17.93445874</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.23248302</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.23248302,17.93452686</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.23293134</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.23293134,17.9345364</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.23302377</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.23302377,17.93470386</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.23454939</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.23454939,17.934743</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.2359182</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.2359182,17.93513697</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.23761941</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.23761941,17.93516931</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.23799111</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.23799111,17.93549536</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.23807512</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.23807512,17.93607729</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.23943706</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.23943706,17.93610686</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.23982092</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.23982092,17.93627992</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.24100559</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.24100559,17.93654638</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.2424922</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.2424922,17.93662708</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.24348433</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.24348433,17.93672725</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.24419865</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.24419865,17.93673214</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.24635184</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.24635184,17.93696228</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.24638933</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.24638933,17.93700742</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.24659583</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.24659583,17.9508645</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.24711615</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.24711615,17.95115502</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.2488036</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.2488036,17.95125125</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.24896616</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.24896616,17.95163079</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.25079414</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.25079414,17.95302479</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.25313726</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.25313726,17.95344041</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.25313884</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.25313884,17.95350348</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.25433057</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.25433057,17.95399728</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44355715</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44355715,17.95400721</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44453389</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44453389,17.95410259</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44495272</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44495272,17.95454629</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44497251</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44497251,17.95480024</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44588129</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44588129,17.95506858</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44686638</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44686638,17.95524993</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44763973</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44763973,17.9558618</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44777953</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44777953,17.95606427</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44873289</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44873289,17.95611403</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44941438</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44941438,17.95617519</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44972638</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44972638,17.95703571</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.44997028</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.44997028,17.95723532</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.45210186</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.45210186,17.95755081</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.45444032</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.45444032,17.95781365</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.48549834</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.48549834,17.95783653</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.48552483</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.48552483,17.95810176</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.4862317</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.4862317,17.95812129</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.48652779</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.48652779,17.95816831</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.48729514</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.48729514,17.95819942</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.4873247</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.4873247,17.95884487</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.48992331</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.48992331,17.95890508</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49008411</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49008411,17.95915223</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49105703</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49105703,17.95920081</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49154819</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49154819,17.95932395</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49266837</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49266837,17.95943255</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.4930446</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.4930446,17.95949095</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49435179</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49435179,17.95967998</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49447636</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49447636,17.95976922</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49472638</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49472638,17.96041562</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49713792</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49713792,17.96064986</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49808542</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49808542,17.96101242</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49812286</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49812286,17.96117937</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.49835647</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.49835647,17.96133341</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50054426</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50054426,17.96156047</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50140352</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50140352,17.96161392</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50220902</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50220902,17.96173598</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50270603</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50270603,17.96706224</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50288251</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50288251,17.96717617</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.5036003</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.5036003,17.96731378</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50402829</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50402829,17.96742918</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50409497</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50409497,17.96753882</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50555075</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50555075,17.96765644</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50829265</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50829265,17.96773991</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50834838</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50834838,17.96786522</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.50953286</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.50953286,17.96800593</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.5096827</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.5096827,17.96821751</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51077851</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51077851,17.96864589</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51136791</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51136791,17.96881071</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51166458</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51166458,17.96884762</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51242418</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51242418,17.96890909</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51373705</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51373705,17.96898226</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51411364</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51411364,17.96910956</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51576253</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51576253,17.96918552</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51637115</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51637115,17.96928844</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51639516</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51639516,17.9693872</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51746781</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51746781,17.96943831</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51867766</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51867766,17.96946198</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.51868986</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.51868986,17.96959846</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.55026386</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.55026386,17.97019255</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.55116712</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.55116712,17.97024716</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.55449574</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.55449574,17.97042764</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.55591091</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.55591091,17.97058657</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.55711086</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.55711086,17.97072338</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.55720433</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.55720433,17.97092488</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.55755693</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.55755693,17.97104019</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.55796873</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.55796873,17.97112356</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.5617354</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.5617354,17.97524272</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.56397402</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.56397402,17.97556583</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.56447849</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.56447849,17.97561397</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.56578759</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.56578759,17.97576034</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.56736841</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.56736841,17.97626326</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.56782898</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.56782898,17.97648461</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.56881602</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.56881602,17.97672932</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.56970903</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.56970903,17.98063715</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.57046751</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.57046751,17.98067959</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.57050984</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.57050984,17.98108832</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.57280016</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.57280016,17.9811123</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.57280369</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.57280369,17.98610727</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.57418741</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.57418741,17.98628239</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.57476837</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.57476837,17.9863774</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.57481598</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.57481598,17.98655823</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.5764484</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.5764484,17.9867549</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.57824704</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.57824704,17.98971272</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.57968386</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.57968386,17.98975203</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.58103465</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.58103465,17.98984841</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.58123728</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.58123728,17.98995316</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.581961</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.581961,17.99005862</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.58215615</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.58215615,17.99010843</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.58423269</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.58423269,17.99016504</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.58427072</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.58427072,17.99037378</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.5862334</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.5862334,17.99125611</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.58817309</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.58817309,17.99150583</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.58957953</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.58957953,17.99162515</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.59026522</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.59026522,17.99213732</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.59189577</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.59189577,17.99239375</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.59211469</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.59211469,17.99244229</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.5925697</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.5925697,17.99247341</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.59592152</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.59592152,17.99269394</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.60058141</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.60058141,17.99275673</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.61276299</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.61276299,17.99292871</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.61324005</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.61324005,17.99293378</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.61541973</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.61541973,17.99312421</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.61556298</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.61556298,17.99337816</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.61612956</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.61612956,17.99382954</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.61705797</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.61705797,17.99383384</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.61829376</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.61829376,17.99407346</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.61994104</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.61994104,17.99419318</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.61998009</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.61998009,17.9942861</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.62206048</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.62206048,17.99471854</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.62219856</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.62219856,17.99492997</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.62251734</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.62251734,17.99508127</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.62388126</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.62388126,17.99546695</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.62470567</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.62470567,17.99550471</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.62498514</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.62498514,17.99923102</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.62555697</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.62555697,17.99970803</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.62796601</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.62796601,18.00023709</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.6284362</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.6284362,18.00027188</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.63055749</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.63055749,18.00028548</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.63672294</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.63672294,18.00044652</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.63777601</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.63777601,18.00051609</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.63816922</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.63816922,18.00061167</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.63926402</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.63926402,18.00116293</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.64322987</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.64322987,18.00146043</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.6436275</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.6436275,18.00147752</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.64406367</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.64406367,18.00171499</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.64488466</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.64488466,18.00602322</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.64518422</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.64518422,18.00615338</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.6453456</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.6453456,18.0062502</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.64640726</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.64640726,18.0064013</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.64650172</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.64650172,18.00690257</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.64730161</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.64730161,18.00702852</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.64749995</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.64749995,18.00720773</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.64823412</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.64823412,18.00729696</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65330573</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65330573,18.00761747</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65437405</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65437405,18.00803599</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65514716</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65514716,18.00804368</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65633537</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65633537,18.00830396</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65812318</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65812318,18.00848085</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65814109</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65814109,18.00913023</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.6583083</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.6583083,18.00949728</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65831726</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65831726,18.00993203</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65876228</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65876228,18.01022752</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65890991</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65890991,18.010445</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.65911237</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.65911237,18.0107164</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.6603861</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.6603861,18.01371672</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66120672</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66120672,18.01388673</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66268287</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66268287,18.01395729</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66314627</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66314627,18.01409049</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66385188</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66385188,18.01409977</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66419534</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66419534,18.01410103</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66505229</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66505229,18.02878708</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66516461</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66516461,18.02878795</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66533347</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66533347,18.02923867</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66784284</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66784284,18.02934899</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66963123</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66963123,18.02960044</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.66967003</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.66967003,18.03023292</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.67150424</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.67150424,18.03038066</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.67187115</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.67187115,18.0304631</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.675936</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.675936,18.03057885</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.67598947</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.67598947,18.03098013</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.72731338</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.72731338,18.03115703</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.72784359</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.72784359,18.03166356</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.72867516</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.72867516,18.03168356</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73037346</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73037346,18.03250361</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73069975</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73069975,18.03279227</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73222593</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73222593,18.03285068</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73279878</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73279878,18.06603802</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.7345348</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.7345348,18.06605</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73473684</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73473684,18.06620455</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73486516</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73486516,18.06620524</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73536929</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73536929,18.06680974</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73584905</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73584905,18.06684616</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.7372835</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.7372835,18.0672594</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73813054</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73813054,18.06731443</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73893518</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73893518,18.06756467</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.73895869</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.73895869,18.0677139</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.74073782</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.74073782,18.06791129</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.74095201</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.74095201,18.0777499</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.74172083</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.74172083,18.07855307</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.74197894</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.74197894,18.07912624</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.74400526</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.74400526,18.07914036</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.74420172</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.74420172,18.07947756</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.74439993</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.74439993,18.0797241</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.74838044</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.74838044,18.07982978</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75031067</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75031067,18.0798363</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75034809</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75034809,18.07998476</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75054182</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75054182,18.080097</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75264751</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75264751,18.0801553</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75390138</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75390138,18.08019078</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75456406</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75456406,18.08046166</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75678941</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75678941,18.0805989</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75708388</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75708388,18.09620707</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75744723</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75744723,18.09621312</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75774627</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75774627,18.09621885</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75824284</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75824284,18.09626991</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.75959035</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.75959035,18.09628074</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.76002713</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.76002713,18.10191803</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.76112093</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.76112093,18.10212657</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.76120128</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.76120128,18.10227072</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.76169403</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.76169403,18.10227253</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.76259684</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.76259684,18.10233379</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.76266341</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.76266341,18.10244699</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.76280678</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.76280678,18.10273275</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.76847186</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.76847186,18.1084511</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.76999003</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.76999003,18.10886786</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.77146723</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.77146723,18.10891065</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.77363394</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.77363394,18.10892679</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.77509354</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.77509354,18.10895708</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.77677825</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.77677825,18.10919395</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.77683248</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.77683248,18.10977634</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.77950676</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.77950676,18.10988287</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.77961164</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.77961164,18.11073764</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.77992363</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.77992363,18.11079775</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78033076</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78033076,18.11082729</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78100421</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78100421,18.11099368</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78171229</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78171229,18.11104232</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78419302</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78419302,18.11128696</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78514524</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78514524,18.11142594</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78637092</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78637092,18.11182558</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78659552</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78659552,18.11190223</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78696428</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78696428,18.11197448</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78705465</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78705465,18.11198504</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.78836149</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.78836149,18.11251451</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.7893479</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.7893479,18.11268132</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.7899655</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.7899655,18.11372822</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.79104758</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.79104758,18.11420457</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.79111103</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.79111103,18.11423803</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.79245057</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.79245057,18.11434842</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.79328806</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.79328806,18.11451831</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant77.79560492</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-77.79560492,18.2295124</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.99922555</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.99922555,18.22956436</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.9987443</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.9987443,18.22960063</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.99662756</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.99662756,18.23036012</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.99545926</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.99545926,18.23049984</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.99253248</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.99253248,18.23121592</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98632921</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98632921,18.24241454</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98598229</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98598229,18.24262014</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98573604</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98573604,18.24262248</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98497166</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98497166,18.24273343</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98456108</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98456108,18.24297496</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.9841705</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.9841705,18.24301507</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98413751</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98413751,18.2430273</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98361696</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98361696,18.2433114</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98210736</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98210736,18.24368608</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98201479</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98201479,18.24388381</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98137306</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98137306,18.24389862</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.98055671</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.98055671,18.2443423</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.97921912</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.97921912,18.24459632</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.97646575</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.97646575,18.24476947</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.9762202</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.9762202,18.2451397</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.97611192</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.97611192,18.25554278</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.9753289</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.9753289,18.25603593</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.97532255</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.97532255,18.2566308</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.97367592</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.97367592,18.25724826</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.97257824</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.97257824,18.25733013</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.97177805</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.97177805,18.25753046</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.97068808</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.97068808,18.25815902</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.97063826</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.97063826,18.25841416</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96999975</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96999975,18.25848169</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96968134</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96968134,18.25852266</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96927952</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96927952,18.25889019</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96924993</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96924993,18.25947804</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96819319</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96819319,18.2647536</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96764021</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96764021,18.26530773</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96715306</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96715306,18.26559418</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96702077</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96702077,18.26583372</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96676345</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96676345,18.26608374</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96614328</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96614328,18.2669763</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96613665</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96613665,18.26708091</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96403352</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96403352,18.26770258</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96276073</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96276073,18.2677574</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.96137521</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.96137521,18.26803693</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.95983838</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.95983838,18.26822497</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.95907768</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.95907768,18.26827895</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.95907048</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.95907048,18.268567</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.95821438</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.95821438,18.26860561</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.95787905</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.95787905,18.26922439</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.95705519</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.95705519,18.26927236</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.9561492</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.9561492,18.26952316</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.95155766</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.95155766,18.27013678</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.94975937</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.94975937,18.27048459</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.9494838</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.9494838,18.28134463</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.9483161</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.9483161,18.28364639</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.94710724</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.94710724,18.2837141</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.94673152</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.94673152,18.28386732</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.94377959</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.94377959,18.29044312</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.94357085</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.94357085,18.32607172</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.94154148</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.94154148,18.32667115</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.94152464</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.94152464,18.32677061</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.94017633</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.94017633,18.32691938</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93898133</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93898133,18.32762745</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93702575</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93702575,18.32766086</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93643886</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93643886,18.32770294</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93643711</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93643711,18.32787835</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93605029</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93605029,18.32825813</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93562229</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93562229,18.32866494</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93519172</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93519172,18.33470587</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93387547</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93387547,18.33499792</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93350954</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93350954,18.3350179</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93287007</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93287007,18.33510783</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93247937</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93247937,18.33539931</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93241091</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93241091,18.33543429</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93224695</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93224695,18.3360535</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.93137204</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.93137204,18.33611501</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.92815123</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.92815123,18.33654472</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.92737834</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.92737834,18.33686997</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.92666533</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.92666533,18.33731511</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.92562542</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.92562542,18.33777073</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.92453629</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.92453629,18.33791606</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.92407219</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.92407219,18.33819533</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.92382749</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.92382749,18.33886522</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.92353805</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.92353805,18.34226899</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.92352064</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.92352064,18.34233533</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91922318</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91922318,18.34295836</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91827665</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91827665,18.34380928</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91738326</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91738326,18.34388973</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91565602</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91565602,18.34394104</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91494003</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91494003,18.34400872</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91420802</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91420802,18.34495358</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91391264</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91391264,18.35053328</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91384023</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91384023,18.35055253</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91295208</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91295208,18.37538772</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91154152</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91154152,18.37593376</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91115579</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91115579,18.37623244</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.91014322</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.91014322,18.37628258</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.90891226</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.90891226,18.37669884</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.90784249</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.90784249,18.37680754</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.90743658</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.90743658,18.37703711</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.90213743</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.90213743,18.39206827</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.89899749</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.89899749,18.39215747</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.89726934</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.89726934,18.39249557</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.89362477</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.89362477,18.39258948</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.89295317</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.89295317,18.39262364</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.88984449</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.88984449,18.39288831</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.88984297</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.88984297,18.39302615</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.88958288</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.88958288,18.39329515</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.88887435</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.88887435,18.3937509</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.887902</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.887902,18.4000355</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.88712367</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.88712367,18.40023264</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.8841915</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.8841915,18.40047698</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.88318829</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.88318829,18.4006462</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.88115294</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.88115294,18.40066488</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.88008072</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.88008072,18.40077054</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.87989309</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.87989309,18.40079396</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.87905121</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.87905121,18.40119608</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.87806163</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.87806163,18.40119897</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.87696999</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.87696999,18.40127946</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.87637892</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.87637892,18.40155534</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.87539754</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.87539754,18.40156818</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>hydrant76.87373707</name>
+<description>water source</description>
+<styleUrl>#hfr</styleUrl>
+<Point>
+<altitudeMode>clampToGround</altitudeMode>
+ <coordinates>-76.87373707,18.40207249</coordinates>
+</Point>
+</Placemark>
 
 </kml>

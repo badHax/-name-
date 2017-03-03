@@ -38,11 +38,10 @@ class Mapping(object):
             print ex
             return None
             
-            
+    #show locations of fire stations        
     def show_stations(self):
         map = self.make_general_map()
         stations = db.get_stations()
-        print stations[1].query.get(1).name
         row = 1;
         for station in stations:
             lt, ln, name = station.query.get(row).latitude, station.query.get(row).longitude, station.query.get(row).name
@@ -50,19 +49,26 @@ class Mapping(object):
             self.make_point_on_map(map, ln, lt, name)
         
         self.silentremove(app.root_path+'/templates/map/templates/station_view.html')
-        try:
-            map.save(app.root_path+'/templates/maps/templates/station_view.html')
-        except Exception as e:
-            print e
-            return False
+        map.save(app.root_path+'/templates/maps/templates/station_view.html')
+    
+    def show_hydrants(self):
+        map = self.make_general_map()
+        hydrants = db.get_hydrants()
+        
+        row = 1
+        for hydrant in hydrants:
+            lt, ln = hydrant.query.get(row).latitude, hydrant.query.get(row).longitude
+            self.make_point_on_map(map, ln, lt, "hydrant", "#00ff00", "tint")
+            row = row+1
             
+        self.silentremove(app.root_path+'/templates/map/templates/hydrants_view.html')
+        map.save(app.root_path+'/templates/maps/templates/hydrants_view.html')
     
     def map_to_iframe(self, map_file):
         return "<iframe src='app/maps/"+ map_file +".html'></iframe>"
         
-    def make_point_on_map(self, map, lat, lng, name):
-        map.simple_marker(location=[lat,lng], popup=name, marker_color='red', marker_icon='home')
-        #folium.Marker(location=[lat, lng], popup=name).add_to(map)
+    def make_point_on_map(self, map, lat, lng, name='change me', color='red',icon='home'):
+        map.simple_marker(location=[lat,lng], popup=name, marker_color=color, marker_icon=icon)
             
     def make_path_map(self):
         pass

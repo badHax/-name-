@@ -16,10 +16,18 @@ from app import blaze
 
 mp = blaze.Mapping()
 
-@app.route('/maps/templates/station_view')
+@app.route('/station_view')
 def view_stations():
-    iframe = mp.show_stations()
-    return render_template('maps/templates/station_view.html')
+    return render_template('/maps/templates/station_view.html')
+    
+@app.route('/hydrant_view')
+def view_hydrants():
+    return render_template('/maps/templates/hydrants_view.html')
+    
+@app.route('/blank_view')
+def view_blank():
+    return render_template('/maps/templates/blank_view.html')
+    
     
 @app.route('/')
 def home():
@@ -31,9 +39,27 @@ def index():
         Main page here
         
     """
+    print request.method
+    if request.method == 'POST':
+         if request.form['submit'] == 'view map':
+            return rennder_template(url_for('show_map'))
     return render_template('index.html')
+
+@app.route('/map', methods=['POST', 'GET'])
+def show_map():
+    # default blank
+    layer = url_for('view_blank')
     
+    print request.method
     
+    if request.method == 'POST':
+        print request.form['submit']
+        if request.form['submit'] == 'view stations':
+            layer = url_for('view_stations')
+        elif request.form['submit'] == 'view hydrants':
+            layer = url_for('view_hydrants')
+    return render_template('map.html',layer=layer)
+
 @app.route('/login', methods=['POST', 'GET'])
 def login():
     error = None

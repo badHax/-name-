@@ -1,0 +1,17 @@
+ {% extends "base.html" %}
+{% block main %}
+    <style type="text/css">
+     #map{
+         width:100%;
+         height: 600px;
+     }
+ </style>
+      <iframe id ="map" src="{{ layer }}" id="map">
+      </iframe>
+       <form method="POST">
+            <button type="submit" value="view hydrants" name="submit">View Hydrants</button>
+        </form>
+        <form method="POST">
+            <button type="submit" value="view stations" name = "submit">View Stations</button>
+        </form>
+{% endblock %}

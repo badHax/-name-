@@ -18,11 +18,11 @@ class Truck(db.Model):
     def __repr__(self):
         return '<id {}>'.format(self.id)
 
-class Hydrants(db.Model):
-    __tablename__ = 'hydrants'
+class Hydrant(db.Model):
+    __tablename__ = 'hydrant'
     id = db.Column('hydrant_id',db.Integer, primary_key = True)
-    latitude = db.Column(db.Float(10), unique=True)
-    longitude = db.Column(db.Float(10), unique=True)
+    latitude = db.Column(db.Numeric(10,8))
+    longitude = db.Column(db.Numeric(10,8))
     hydrant_type = db.Column(db.String(20))
     
     def __init__(self,latitude,longitude,hydrant_type):
@@ -37,8 +37,8 @@ class Hydrants(db.Model):
 class Alert(db.Model):
     __tablename__ = 'alert'
     id = db.Column('incident_id',db.Integer, primary_key = True)
-    latitude = db.Column(db.Float(10))
-    longitude = db.Column(db.Float(10))
+    latitude = db.Column(db.Numeric(10,8),unique=True)
+    longitude = db.Column(db.Numeric(10,8))
     reported_by = db.Column(db.String(20))
     date_time = db.Column(db.DateTime)
     
@@ -54,8 +54,8 @@ class Alert(db.Model):
 class Station(db.Model):
     __tablename__ = 'stations'
     id = db.Column('station_id',db.Integer, primary_key = True)
-    latitude = db.Column(db.Float(10),unique=True)
-    longitude = db.Column(db.Float(10),unique=True)
+    latitude = db.Column(db.Numeric(10,8),unique=True)
+    longitude = db.Column(db.Numeric(10,8))
     name = db.Column(db.String(20),unique=True)
     
     def __init__(self, latitude, longitude, name):
